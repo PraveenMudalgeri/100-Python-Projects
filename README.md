@@ -1,0 +1,1 @@
+Yes Coders!!! I am Praveen and I am a 1st year student at a tier-3 college from karnataka. Basically here I am posting my first 100 projects on Python. These basically go from very basics of python to covering most advanced topics of Python. 
