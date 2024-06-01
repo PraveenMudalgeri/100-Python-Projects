@@ -4,10 +4,4 @@ city_name = input("What's name of the city you grew up in?\n")  #takes the input
 pet_name = input("What's your pet name?\n")                     #takes the input of users pet name and stores it in variable pet_name
 print(f'Your band name could be {city_name} {pet_name}')        #prints the statement
 
-# output 
-# Welcome to the Band Name Generator.
-# What's name of the city you grew up in?
-# London
-# What's your pet name?
-# Jacky
-# Your band name could be London Jacky
+
